@@ -1,0 +1,34 @@
+<script setup lang="ts">
+import Content from '../layout/Content.vue';
+
+</script>
+
+<template>
+  <Content :align="'left'">
+    <div class="context">
+      <h3>Paper Submission</h3><br />
+      <section>
+        <h4>Submission Guideline</h4>
+
+        All papers must be original and not simultaneously submitted to another journal or conference.<br />
+        Submission link: <b>TBD</b><br />
+        Templates, sample files: <a href="https://drive.google.com/drive/folders/1-uJpkkvIbmP1hxGBnCQsZ5GXMH49iurY?usp=drive_link" target="_blank">link</a><br />
+        <p><b>The maximum length of the submission (including references, but excluding the optional appendix) is 6
+            pages. Proofs omitted due to space constraints must be placed in an appendix to be read by the program
+            committee members at their discretion. Submissions that deviate from these guidelines risk being rejected
+            without consideration of their merits. Submission is through the EasyChair conference system. The submission
+            process requires registration to create an EasyChair account prior to submission.</b></p>
+      </section><br />
+      <h2>TBD...</h2>
+      
+    </div>
+  </Content>
+</template>
+
+<style scoped>
+.context {
+  height: auto;
+  min-height: 40vh;
+  padding: 2rem 3rem;
+}
+</style>

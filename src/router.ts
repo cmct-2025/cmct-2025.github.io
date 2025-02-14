@@ -1,4 +1,4 @@
-import { createWebHistory, createRouter } from 'vue-router'
+import { createMemoryHistory, createRouter } from 'vue-router'
 
 import HomeView from './views/HomeView.vue'
 import CommitteesView from './views/CommitteesView.vue'
@@ -12,7 +12,7 @@ import RegistrationView from './views/RegistrationView.vue'
 import VenueView from './views/VenueView.vue'
 import HelpDeskView from './views/HelpDeskView.vue'
 
-const routes = [
+export const routes = [
   { path: '/', component: HomeView },
   { path: '/committees', component: CommitteesView },
   { path: '/call-for-papers', component: CallForPapersView },
@@ -27,7 +27,7 @@ const routes = [
 ]
 
 export const router = createRouter({
-  history: createWebHistory(),
+  history: createMemoryHistory(),
   routes,
 })
 

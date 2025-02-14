@@ -15,20 +15,20 @@ import Content from '../layout/Content.vue';
 
       <section>
         <h4>Advisory Committees</h4>
-        Richard Chia-Tong Lee, National Tsing Hua University<br />
-        Der-Tsai Lee, Academia Sinica<br />
-        Chuan-Yi Tang, Providence University<br />
+        Richard Chia-Tong Lee, National Tsing Hua University, Taiwan<br />
+        Der-Tsai Lee, Academia Sinica, Taiwan<br />
+        Chuan-Yi Tang, Providence University, Taiwan<br />
       </section><br />
 
       <section>
         <h4>Steering Committees</h4>
-        Chin-Wen Ho, National Central University<br />
-        Yaw-Ling Lin, Providence University<br />
-        Tsan-sheng Hsu, Academia Sinica<br />
-        Gen-Huey Chen, National Taiwan University<br />
+        Chin-Wen Ho, National Central University, Taiwan<br />
+        Yaw-Ling Lin, Providence University, Taiwan<br />
+        Tsan-sheng Hsu, Academia Sinica, Taiwan<br />
+        Gen-Huey Chen, National Taiwan University, Taiwan<br />
         Jou-Ming Chang, National Taipei University of Business, Taiwan<br />
         Sheng-Lung Peng, National Taipei University of Business, Taiwan<br />
-        Chang-Biau Yang, National Sun Yat-sen University<br />
+        Chang-Biau Yang, National Sun Yat-sen University, Taiwan<br />
       </section><br />
 
       <section>

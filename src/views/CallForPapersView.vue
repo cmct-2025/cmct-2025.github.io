@@ -9,7 +9,7 @@ import Content from '../layout/Content.vue';
       <h3>Call for Papers [<a target="_blank" href="https://drive.google.com/file/d/1yMkYHdyZcfPMTd36cjqiE_i0B6mbqO5I/view?usp=drive_link">PDF</a>]</h3><br />
       <section>
         CMCT 2025: The 42st Symposium on Combinatorial Mathematics and Computational Theory<br />
-        University of Taipei<br />
+        National Taipei University of Technology<br />
         Taipei, Taiwan, May 9-10, 2025<br /><br />
       </section><br />
 
@@ -34,8 +34,8 @@ import Content from '../layout/Content.vue';
           <li>Symbolic computation</li>
           <li>Networks parallel and cloud algorithms</li>
         </ul>
-        Conference website: https://cmct-2025.github.io/<br />
-        Submission link: TBD<br />
+        Conference website: <a href="https://cmct-2025.github.io/">link</a><br />
+        Submission link: <b>TBD</b><br />
         Submission deadline: 23 March, 2025<br />
       </section><br />
 

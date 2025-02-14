@@ -1,0 +1,312 @@
+{
+  "\u0000plugin-vue:export-helper": [
+    "/assets/Taipei_Tech-mGqIL-xB.png",
+    "/assets/banner-fjaebwy9.jpg",
+    "/assets/cmct2025-GXlmBspW.png"
+  ],
+  "\u0000vite/modulepreload-polyfill.js": [
+    "/assets/Taipei_Tech-mGqIL-xB.png",
+    "/assets/banner-fjaebwy9.jpg",
+    "/assets/cmct2025-GXlmBspW.png"
+  ],
+  "index.html": [
+    "/assets/Taipei_Tech-mGqIL-xB.png",
+    "/assets/banner-fjaebwy9.jpg",
+    "/assets/cmct2025-GXlmBspW.png"
+  ],
+  "node_modules/@unhead/dom/dist/index.mjs": [
+    "/assets/Taipei_Tech-mGqIL-xB.png",
+    "/assets/banner-fjaebwy9.jpg",
+    "/assets/cmct2025-GXlmBspW.png"
+  ],
+  "node_modules/@unhead/shared/dist/index.mjs": [
+    "/assets/Taipei_Tech-mGqIL-xB.png",
+    "/assets/banner-fjaebwy9.jpg",
+    "/assets/cmct2025-GXlmBspW.png"
+  ],
+  "node_modules/@unhead/vue/dist/shared/vue.ziyDaVMR.mjs": [
+    "/assets/Taipei_Tech-mGqIL-xB.png",
+    "/assets/banner-fjaebwy9.jpg",
+    "/assets/cmct2025-GXlmBspW.png"
+  ],
+  "node_modules/@unhead/vue/node_modules/unhead/dist/index.mjs": [
+    "/assets/Taipei_Tech-mGqIL-xB.png",
+    "/assets/banner-fjaebwy9.jpg",
+    "/assets/cmct2025-GXlmBspW.png"
+  ],
+  "node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [
+    "/assets/Taipei_Tech-mGqIL-xB.png",
+    "/assets/banner-fjaebwy9.jpg",
+    "/assets/cmct2025-GXlmBspW.png"
+  ],
+  "node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [
+    "/assets/Taipei_Tech-mGqIL-xB.png",
+    "/assets/banner-fjaebwy9.jpg",
+    "/assets/cmct2025-GXlmBspW.png"
+  ],
+  "node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [
+    "/assets/Taipei_Tech-mGqIL-xB.png",
+    "/assets/banner-fjaebwy9.jpg",
+    "/assets/cmct2025-GXlmBspW.png"
+  ],
+  "node_modules/@vue/shared/dist/shared.esm-bundler.js": [
+    "/assets/Taipei_Tech-mGqIL-xB.png",
+    "/assets/banner-fjaebwy9.jpg",
+    "/assets/cmct2025-GXlmBspW.png"
+  ],
+  "node_modules/hookable/dist/index.mjs": [
+    "/assets/Taipei_Tech-mGqIL-xB.png",
+    "/assets/banner-fjaebwy9.jpg",
+    "/assets/cmct2025-GXlmBspW.png"
+  ],
+  "node_modules/vite-ssg/dist/index.mjs": [
+    "/assets/Taipei_Tech-mGqIL-xB.png",
+    "/assets/banner-fjaebwy9.jpg",
+    "/assets/cmct2025-GXlmBspW.png"
+  ],
+  "node_modules/vite-ssg/dist/shared/vite-ssg.C6pK7rvr.mjs": [
+    "/assets/Taipei_Tech-mGqIL-xB.png",
+    "/assets/banner-fjaebwy9.jpg",
+    "/assets/cmct2025-GXlmBspW.png"
+  ],
+  "node_modules/vite-ssg/dist/shared/vite-ssg.ETIvV-80.mjs": [
+    "/assets/Taipei_Tech-mGqIL-xB.png",
+    "/assets/banner-fjaebwy9.jpg",
+    "/assets/cmct2025-GXlmBspW.png"
+  ],
+  "node_modules/vue-router/dist/vue-router.mjs": [
+    "/assets/Taipei_Tech-mGqIL-xB.png",
+    "/assets/banner-fjaebwy9.jpg",
+    "/assets/cmct2025-GXlmBspW.png"
+  ],
+  "src/App.vue": [
+    "/assets/Taipei_Tech-mGqIL-xB.png",
+    "/assets/banner-fjaebwy9.jpg",
+    "/assets/cmct2025-GXlmBspW.png"
+  ],
+  "src/App.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/Taipei_Tech-mGqIL-xB.png",
+    "/assets/banner-fjaebwy9.jpg",
+    "/assets/cmct2025-GXlmBspW.png"
+  ],
+  "src/App.vue?vue&type=style&index=0&scoped=f269de6c&lang.css": [
+    "/assets/Taipei_Tech-mGqIL-xB.png",
+    "/assets/banner-fjaebwy9.jpg",
+    "/assets/cmct2025-GXlmBspW.png"
+  ],
+  "src/assets/Taipei_Tech.png": [
+    "/assets/Taipei_Tech-mGqIL-xB.png",
+    "/assets/banner-fjaebwy9.jpg",
+    "/assets/cmct2025-GXlmBspW.png"
+  ],
+  "src/components/SiteHeader.vue": [
+    "/assets/Taipei_Tech-mGqIL-xB.png",
+    "/assets/banner-fjaebwy9.jpg",
+    "/assets/cmct2025-GXlmBspW.png"
+  ],
+  "src/components/SiteHeader.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/Taipei_Tech-mGqIL-xB.png",
+    "/assets/banner-fjaebwy9.jpg",
+    "/assets/cmct2025-GXlmBspW.png"
+  ],
+  "src/components/SiteHeader.vue?vue&type=style&index=0&scoped=e084ee7a&lang.scss": [
+    "/assets/Taipei_Tech-mGqIL-xB.png",
+    "/assets/banner-fjaebwy9.jpg",
+    "/assets/cmct2025-GXlmBspW.png"
+  ],
+  "src/layout/Content.vue": [
+    "/assets/Taipei_Tech-mGqIL-xB.png",
+    "/assets/banner-fjaebwy9.jpg",
+    "/assets/cmct2025-GXlmBspW.png"
+  ],
+  "src/layout/Content.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/Taipei_Tech-mGqIL-xB.png",
+    "/assets/banner-fjaebwy9.jpg",
+    "/assets/cmct2025-GXlmBspW.png"
+  ],
+  "src/layout/Content.vue?vue&type=style&index=0&scoped=81e2c1f0&lang.scss": [
+    "/assets/Taipei_Tech-mGqIL-xB.png",
+    "/assets/banner-fjaebwy9.jpg",
+    "/assets/cmct2025-GXlmBspW.png"
+  ],
+  "src/main.ts": [
+    "/assets/Taipei_Tech-mGqIL-xB.png",
+    "/assets/banner-fjaebwy9.jpg",
+    "/assets/cmct2025-GXlmBspW.png"
+  ],
+  "src/router.ts": [
+    "/assets/Taipei_Tech-mGqIL-xB.png",
+    "/assets/banner-fjaebwy9.jpg",
+    "/assets/cmct2025-GXlmBspW.png"
+  ],
+  "src/style.scss": [
+    "/assets/Taipei_Tech-mGqIL-xB.png",
+    "/assets/banner-fjaebwy9.jpg",
+    "/assets/cmct2025-GXlmBspW.png"
+  ],
+  "src/views/AcceptedPapersView.vue": [
+    "/assets/Taipei_Tech-mGqIL-xB.png",
+    "/assets/banner-fjaebwy9.jpg",
+    "/assets/cmct2025-GXlmBspW.png"
+  ],
+  "src/views/AcceptedPapersView.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/Taipei_Tech-mGqIL-xB.png",
+    "/assets/banner-fjaebwy9.jpg",
+    "/assets/cmct2025-GXlmBspW.png"
+  ],
+  "src/views/AcceptedPapersView.vue?vue&type=style&index=0&scoped=71404068&lang.css": [
+    "/assets/Taipei_Tech-mGqIL-xB.png",
+    "/assets/banner-fjaebwy9.jpg",
+    "/assets/cmct2025-GXlmBspW.png"
+  ],
+  "src/views/CallForPapersView.vue": [
+    "/assets/Taipei_Tech-mGqIL-xB.png",
+    "/assets/banner-fjaebwy9.jpg",
+    "/assets/cmct2025-GXlmBspW.png"
+  ],
+  "src/views/CallForPapersView.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/Taipei_Tech-mGqIL-xB.png",
+    "/assets/banner-fjaebwy9.jpg",
+    "/assets/cmct2025-GXlmBspW.png"
+  ],
+  "src/views/CallForPapersView.vue?vue&type=style&index=0&scoped=93a68b99&lang.css": [
+    "/assets/Taipei_Tech-mGqIL-xB.png",
+    "/assets/banner-fjaebwy9.jpg",
+    "/assets/cmct2025-GXlmBspW.png"
+  ],
+  "src/views/CommitteesView.vue": [
+    "/assets/Taipei_Tech-mGqIL-xB.png",
+    "/assets/banner-fjaebwy9.jpg",
+    "/assets/cmct2025-GXlmBspW.png"
+  ],
+  "src/views/CommitteesView.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/Taipei_Tech-mGqIL-xB.png",
+    "/assets/banner-fjaebwy9.jpg",
+    "/assets/cmct2025-GXlmBspW.png"
+  ],
+  "src/views/CommitteesView.vue?vue&type=style&index=0&scoped=7f23c2cb&lang.css": [
+    "/assets/Taipei_Tech-mGqIL-xB.png",
+    "/assets/banner-fjaebwy9.jpg",
+    "/assets/cmct2025-GXlmBspW.png"
+  ],
+  "src/views/HelpDeskView.vue": [
+    "/assets/Taipei_Tech-mGqIL-xB.png",
+    "/assets/banner-fjaebwy9.jpg",
+    "/assets/cmct2025-GXlmBspW.png"
+  ],
+  "src/views/HelpDeskView.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/Taipei_Tech-mGqIL-xB.png",
+    "/assets/banner-fjaebwy9.jpg",
+    "/assets/cmct2025-GXlmBspW.png"
+  ],
+  "src/views/HelpDeskView.vue?vue&type=style&index=0&scoped=0ca57e3e&lang.css": [
+    "/assets/Taipei_Tech-mGqIL-xB.png",
+    "/assets/banner-fjaebwy9.jpg",
+    "/assets/cmct2025-GXlmBspW.png"
+  ],
+  "src/views/HomeView.vue": [
+    "/assets/Taipei_Tech-mGqIL-xB.png",
+    "/assets/banner-fjaebwy9.jpg",
+    "/assets/cmct2025-GXlmBspW.png"
+  ],
+  "src/views/HomeView.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/Taipei_Tech-mGqIL-xB.png",
+    "/assets/banner-fjaebwy9.jpg",
+    "/assets/cmct2025-GXlmBspW.png"
+  ],
+  "src/views/HomeView.vue?vue&type=style&index=0&scoped=1f167f9b&lang.css": [
+    "/assets/Taipei_Tech-mGqIL-xB.png",
+    "/assets/banner-fjaebwy9.jpg",
+    "/assets/cmct2025-GXlmBspW.png"
+  ],
+  "src/views/ImportantDateView.vue": [
+    "/assets/Taipei_Tech-mGqIL-xB.png",
+    "/assets/banner-fjaebwy9.jpg",
+    "/assets/cmct2025-GXlmBspW.png"
+  ],
+  "src/views/ImportantDateView.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/Taipei_Tech-mGqIL-xB.png",
+    "/assets/banner-fjaebwy9.jpg",
+    "/assets/cmct2025-GXlmBspW.png"
+  ],
+  "src/views/ImportantDateView.vue?vue&type=style&index=0&scoped=b40b140f&lang.css": [
+    "/assets/Taipei_Tech-mGqIL-xB.png",
+    "/assets/banner-fjaebwy9.jpg",
+    "/assets/cmct2025-GXlmBspW.png"
+  ],
+  "src/views/KeynoteSpeakersView.vue": [
+    "/assets/Taipei_Tech-mGqIL-xB.png",
+    "/assets/banner-fjaebwy9.jpg",
+    "/assets/cmct2025-GXlmBspW.png"
+  ],
+  "src/views/KeynoteSpeakersView.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/Taipei_Tech-mGqIL-xB.png",
+    "/assets/banner-fjaebwy9.jpg",
+    "/assets/cmct2025-GXlmBspW.png"
+  ],
+  "src/views/KeynoteSpeakersView.vue?vue&type=style&index=0&scoped=48356734&lang.css": [
+    "/assets/Taipei_Tech-mGqIL-xB.png",
+    "/assets/banner-fjaebwy9.jpg",
+    "/assets/cmct2025-GXlmBspW.png"
+  ],
+  "src/views/PaperSubmissionView.vue": [
+    "/assets/Taipei_Tech-mGqIL-xB.png",
+    "/assets/banner-fjaebwy9.jpg",
+    "/assets/cmct2025-GXlmBspW.png"
+  ],
+  "src/views/PaperSubmissionView.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/Taipei_Tech-mGqIL-xB.png",
+    "/assets/banner-fjaebwy9.jpg",
+    "/assets/cmct2025-GXlmBspW.png"
+  ],
+  "src/views/PaperSubmissionView.vue?vue&type=style&index=0&scoped=dec3d142&lang.css": [
+    "/assets/Taipei_Tech-mGqIL-xB.png",
+    "/assets/banner-fjaebwy9.jpg",
+    "/assets/cmct2025-GXlmBspW.png"
+  ],
+  "src/views/ProgramView.vue": [
+    "/assets/Taipei_Tech-mGqIL-xB.png",
+    "/assets/banner-fjaebwy9.jpg",
+    "/assets/cmct2025-GXlmBspW.png"
+  ],
+  "src/views/ProgramView.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/Taipei_Tech-mGqIL-xB.png",
+    "/assets/banner-fjaebwy9.jpg",
+    "/assets/cmct2025-GXlmBspW.png"
+  ],
+  "src/views/ProgramView.vue?vue&type=style&index=0&scoped=26ef1a9b&lang.css": [
+    "/assets/Taipei_Tech-mGqIL-xB.png",
+    "/assets/banner-fjaebwy9.jpg",
+    "/assets/cmct2025-GXlmBspW.png"
+  ],
+  "src/views/RegistrationView.vue": [
+    "/assets/Taipei_Tech-mGqIL-xB.png",
+    "/assets/banner-fjaebwy9.jpg",
+    "/assets/cmct2025-GXlmBspW.png"
+  ],
+  "src/views/RegistrationView.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/Taipei_Tech-mGqIL-xB.png",
+    "/assets/banner-fjaebwy9.jpg",
+    "/assets/cmct2025-GXlmBspW.png"
+  ],
+  "src/views/RegistrationView.vue?vue&type=style&index=0&scoped=bd344212&lang.css": [
+    "/assets/Taipei_Tech-mGqIL-xB.png",
+    "/assets/banner-fjaebwy9.jpg",
+    "/assets/cmct2025-GXlmBspW.png"
+  ],
+  "src/views/VenueView.vue": [
+    "/assets/Taipei_Tech-mGqIL-xB.png",
+    "/assets/banner-fjaebwy9.jpg",
+    "/assets/cmct2025-GXlmBspW.png"
+  ],
+  "src/views/VenueView.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/Taipei_Tech-mGqIL-xB.png",
+    "/assets/banner-fjaebwy9.jpg",
+    "/assets/cmct2025-GXlmBspW.png"
+  ],
+  "src/views/VenueView.vue?vue&type=style&index=0&scoped=07dc6466&lang.css": [
+    "/assets/Taipei_Tech-mGqIL-xB.png",
+    "/assets/banner-fjaebwy9.jpg",
+    "/assets/cmct2025-GXlmBspW.png"
+  ]
+}

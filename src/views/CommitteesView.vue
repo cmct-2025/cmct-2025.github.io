@@ -28,7 +28,7 @@ import Content from '../layout/Content.vue';
         Gen-Huey Chen, National Taiwan University, Taiwan<br />
         Jou-Ming Chang, National Taipei University of Business, Taiwan<br />
         Sheng-Lung Peng, National Taipei University of Business, Taiwan<br />
-        Chang-Biau Yang, National Sun Yat-sen University, Taiwan<br />
+        Chang-Biau Yang, National Sun Yat-Sen University, Taiwan<br />
       </section><br />
 
       <section>

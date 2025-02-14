@@ -29,8 +29,8 @@ onMounted(() => {
 
           <div class="title">
             <div class="icon"></div>
-            <div class="text">
-              The 42<sup>nd</sup> Workshop on Combinatorial Mathematics and Computation Theory
+            <div class="text">The 42<sup>nd</sup> Workshop on Combinatorial Mathematics and Computation Theory
+              <p class="venue">May 9-10, 2025 @Taipei Tech, Taiwan</p>
             </div>
           </div>
         </div>
@@ -121,13 +121,30 @@ onMounted(() => {
             font-size: 4rem;
             text-shadow: 1px 1px 3px rgb(0, 0, 0);
 
+            .venue {
+              font-size: 2rem;
+              color: #f1f1f1;
+              text-shadow: 2px 2px 4px rgb(0, 0, 0);
+
+            }
             @media screen and (max-width: 1280px) {
               font-size: 2rem;
+              .venue {
+                font-size: 1rem;
+              }
             }
 
             @media screen and (max-width: 768px) {
               font-size: 1.5rem;
             }
+
+            @media screen and (max-width: 420px) {
+              font-size: 1.2rem;
+              .venue {
+                font-size: 0.8rem;
+              }
+            }
+
           }
 
           @media screen and (max-width: 1280px) {
@@ -143,6 +160,11 @@ onMounted(() => {
             background-size: contain;
             background-repeat: no-repeat;
             background-position: center center;
+
+            @media screen and (max-width: 768px) {
+              min-width: 100px;
+              height: 60px;
+            }
           }
 
         }

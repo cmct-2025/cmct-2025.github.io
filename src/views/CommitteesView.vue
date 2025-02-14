@@ -33,30 +33,18 @@ import Content from '../layout/Content.vue';
 
       <section>
         <h4>Conference Chairs</h4>
-        Scott Yang-Lang Chang, Taipei University of Technology, Taiwan
-      </section><br />
-
-
-
-
-      <section>
-        <h4>Program Chairs</h4>
-        Chia-Wei Lee, National Taipei University of Technology
-      </section><br />
-
-      <section>
-        <h4>Co-Chair</h4>
-        Chien-Hung Liu, National Taipei University of Technology
+        Scott Yang-Lang Chang, National Taipei University of Technology, Taiwan<br />
+        Chien-Hung Liu, National Taipei University of Technology, Taiwan<br />
       </section><br />
 
       <section>
         <h4>Program Chair</h4>
-        Chuan-Ming Liu, National Taipei University of Technology
+        Chuan-Ming Liu, National Taipei University of Technology, Taiwan
       </section><br />
 
       <section>
         <h4>Publicity Chair</h4>
-        Jyun-Ao Lin, National Taipei University of Technology
+        Jyun-Ao Lin, National Taipei University of Technology, Taiwan
       </section><br />
 
       <!-- <section>

@@ -8,7 +8,7 @@ import Content from '../layout/Content.vue';
     <div class="context">
       <h3>Call for Papers [<a target="_blank" href="https://drive.google.com/file/d/1yMkYHdyZcfPMTd36cjqiE_i0B6mbqO5I/view?usp=drive_link">PDF</a>]</h3><br />
       <section>
-        CMCT 2025: The 42st Symposium on Combinatorial Mathematics and Computational Theory<br />
+        CMCT 2025: The 42nd Symposium on Combinatorial Mathematics and Computational Theory<br />
         National Taipei University of Technology<br />
         Taipei, Taiwan, May 9-10, 2025<br /><br />
       </section><br />

@@ -61,7 +61,11 @@ import Content from '../layout/Content.vue';
             pages. Proofs omitted due to space constraints must be placed in an appendix to be read by the program
             committee members at their discretion. Submissions that deviate from these guidelines risk being rejected
             without consideration of their merits. Submission will be through the Microsoft CMT system. The submission
-            process may require registration to create a CMT account prior to submission.</b></p>
+            process may require registration to create a CMT account prior to submission.</b><br /><br />
+          <i>The <a href="https://cmt3.research.microsoft.com" target="_blank">Microsoft CMT service</a> was used for managing the
+            peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore
+            all expenses, including costs for Azure cloud services as well as for software development and support.</i>
+        </p>
       </section><br />
 
 

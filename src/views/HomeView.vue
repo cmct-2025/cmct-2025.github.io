@@ -20,9 +20,11 @@ import Content from '../layout/Content.vue';
         government, academia, and public and private research institutions, featuring high-quality research
         presentations, keynote speeches, and panel discussions. Through these activities, the event aims to further
         elevate the research prowess and international standing of Taiwan in the realm of algorithms and computational
-        theory.
+        theory.<br /><br />
+
+
         <div class="divider" style="width: 100%; height: 0.5px; background-color: darkgrey; margin: 1.5rem 0;"></div>
-        
+
         組合數學與計算理論研討會，每年定期舉行一次，輪流由各大學或中研院主辦，今年將邁入第四十二屆，是我國「演算法與計算理論學門」每年最重要的學術活動。本學術研討會提供與會者發表最新組合數學、演算法與計算理論等方面的基礎與應用的研究成果，讓組合數學、離散數學、計算理論、演算法、生物資訊、網路計算等相關領域的專家學者能齊聚一堂，相互討論學習，增進組合數學與計算理論領域之研究發展。
         <br /><br />會議之目的在於促進學術交流，藉以提升學術水準。本學術會議迄今已舉辦四十一屆，歷經五分之二世紀，為我國演算法與計算理論學門作出重大及長久之貢獻。今年為「第四十二屆組合數學與計算理論研討會」，會議由國立臺北科技大學負責主辦，將廣邀產官學界、公私立研究機構研究人員及其他相關之專家學者參與，提供高品質研究論文發表，並舉辦專題演講及相關座談會，希冀提升國內在演算法與計算理論領域之研究水準。
       </section><br />
@@ -30,6 +32,13 @@ import Content from '../layout/Content.vue';
       <section>
         <h4>Organizers</h4>
         <img class="logo" src="../assets/Taipei_Tech.png" />
+
+        <p>
+          <i>The <a href="https://cmt3.research.microsoft.com" target="_blank">Microsoft CMT service</a> was used for
+            managing the
+            peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore
+            all expenses, including costs for Azure cloud services as well as for software development and support.</i>
+        </p><br /><br />
       </section>
     </div>
   </Content>
@@ -40,5 +49,6 @@ import Content from '../layout/Content.vue';
   height: auto;
   min-height: 40vh;
   padding: 2rem 3rem;
+  padding-bottom: 8rem;
 }
 </style>

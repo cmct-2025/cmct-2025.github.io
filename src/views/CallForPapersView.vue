@@ -6,7 +6,9 @@ import Content from '../layout/Content.vue';
 <template>
   <Content :align="'left'">
     <div class="context">
-      <h3>Call for Papers [<a target="_blank" href="https://drive.google.com/file/d/1yMkYHdyZcfPMTd36cjqiE_i0B6mbqO5I/view?usp=drive_link">PDF</a>]</h3><br />
+      <h3>Call for Papers [<a target="_blank"
+          href="https://drive.google.com/file/d/1yMkYHdyZcfPMTd36cjqiE_i0B6mbqO5I/view?usp=drive_link">PDF</a>]</h3>
+      <br />
       <section>
         CMCT 2025: The 42nd Symposium on Combinatorial Mathematics and Computational Theory<br />
         National Taipei University of Technology<br />
@@ -52,24 +54,28 @@ import Content from '../layout/Content.vue';
 
         All papers must be original and not simultaneously submitted to another journal or conference.<br />
         Submission link: <b>TBD</b><br />
-        Templates, sample files: <a href="https://drive.google.com/drive/folders/1-uJpkkvIbmP1hxGBnCQsZ5GXMH49iurY?usp=drive_link" target="_blank">link</a><br />
+        Templates, sample files: <a
+          href="https://drive.google.com/drive/folders/1-uJpkkvIbmP1hxGBnCQsZ5GXMH49iurY?usp=drive_link"
+          target="_blank">link</a><br />
         <p><b>The maximum length of the submission (including references, but excluding the optional appendix) is 6
             pages. Proofs omitted due to space constraints must be placed in an appendix to be read by the program
             committee members at their discretion. Submissions that deviate from these guidelines risk being rejected
-            without consideration of their merits. Submission is through the EasyChair conference system. The submission
-            process requires registration to create an EasyChair account prior to submission.</b></p>
+            without consideration of their merits. Submission will be through the Microsoft CMT system. The submission
+            process may require registration to create a CMT account prior to submission.</b></p>
       </section><br />
 
 
 
       <section>
         <h4>Venue</h4>
-        The conference will be held at National Taipei University of Technology, Taipei, Taiwan, on May 9-10, 2025.<br />
+        The conference will be held at National Taipei University of Technology, Taipei, Taiwan, on May 9-10,
+        2025.<br />
       </section><br />
 
       <section>
         <h4>Contact</h4>
-        All questions about CMCT 2025 should be emailed to E-mail (<a href="mailto:cmct.workshop@gmail.com">cmct.workshop@gmail.com</a>).
+        All questions about CMCT 2025 should be emailed to E-mail (<a
+          href="mailto:cmct.workshop@gmail.com">cmct.workshop@gmail.com</a>).
 
       </section><br />
 

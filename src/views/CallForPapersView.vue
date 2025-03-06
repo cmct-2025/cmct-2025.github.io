@@ -36,9 +36,7 @@ import Content from '../layout/Content.vue';
           <li>Symbolic computation</li>
           <li>Networks parallel and cloud algorithms</li>
         </ul>
-        Conference website: <a href="https://cmct-2025.github.io/">link</a><br />
-        Submission link: <b>TBD</b><br />
-        Submission deadline: 23 March, 2025<br />
+     
       </section><br />
 
       <section>
@@ -53,10 +51,11 @@ import Content from '../layout/Content.vue';
         <h4>Submission Guideline</h4>
 
         All papers must be original and not simultaneously submitted to another journal or conference.<br />
-        Submission link: <b>TBD</b><br />
+        Submission link: <b><a href="https://cmt3.research.microsoft.com/CMCT2025" target="_blank">https://cmt3.research.microsoft.com/CMCT2025</a></b><br />
+        Help on submission: <a href="https://drive.google.com/file/d/1xeDQ_RBGhy2gwFwjudZqQ1WIC8CxXUhQ/view?usp=sharing" target="_blank">link</a><br />
         Templates, sample files: <a
           href="https://drive.google.com/drive/folders/1-uJpkkvIbmP1hxGBnCQsZ5GXMH49iurY?usp=drive_link"
-          target="_blank">link</a><br />
+          target="_blank">Templates</a><br />
         <p><b>The maximum length of the submission (including references, but excluding the optional appendix) is 6
             pages. Proofs omitted due to space constraints must be placed in an appendix to be read by the program
             committee members at their discretion. Submissions that deviate from these guidelines risk being rejected

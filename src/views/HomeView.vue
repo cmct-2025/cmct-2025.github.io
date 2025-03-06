@@ -30,6 +30,14 @@ import Content from '../layout/Content.vue';
       </section><br />
 
       <section>
+        <h3>News</h3>
+        <p>2025/3/6</p>
+        <ul>          
+          <li>Submission site is open.</li>
+          
+        </ul>
+      </section><br />
+      <section>
         <h4>Organizers</h4>
         <img class="logo" src="../assets/Taipei_Tech.png" />
 

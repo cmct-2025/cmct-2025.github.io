@@ -110,13 +110,13 @@ onMounted(() => {
           background-color: rgba(145, 145, 145, 0.5);
           display: flex;
           justify-content: center;
-          gap: 1rem;
+          gap: 0.5rem;
           align-items: center;
           padding: 1rem;
 
           .text {
             color: #f1f1f1;
-            text-align: right;
+            text-align: center;
             font-family: bold;
             font-size: 4rem;
             text-shadow: 1px 1px 3px rgb(0, 0, 0);
@@ -154,7 +154,7 @@ onMounted(() => {
           }
 
           .icon {
-            min-width: 120px;
+            min-width: 210px;
             height: 128px;
             background-image: url('../assets/cmct2025.png');
             background-size: contain;

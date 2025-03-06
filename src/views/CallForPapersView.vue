@@ -7,7 +7,7 @@ import Content from '../layout/Content.vue';
   <Content :align="'left'">
     <div class="context">
       <h3>Call for Papers [<a target="_blank"
-          href="https://drive.google.com/file/d/1yMkYHdyZcfPMTd36cjqiE_i0B6mbqO5I/view?usp=drive_link">PDF</a>]</h3>
+          href="https://drive.google.com/file/d/12NrzuK64O0nY1ud84KLXaaONlBCZLVgC/view?usp=sharing">PDF</a>]</h3>
       <br />
       <section>
         CMCT 2025: The 42nd Symposium on Combinatorial Mathematics and Computational Theory<br />

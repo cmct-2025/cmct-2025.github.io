@@ -39,8 +39,10 @@ import Content from '../layout/Content.vue';
       </section><br />
       <section>
         <h4>Organizers</h4>
-        <img class="logo" src="../assets/Taipei_Tech.png" />
-
+        <div class="logo-set">
+          <img class="logo" src="../assets/Taipei_Tech.png" />
+          <img class="logo" src="../assets/aact.png" />
+        </div>
         <p>
           <i>The <a href="https://cmt3.research.microsoft.com" target="_blank">Microsoft CMT service</a> was used for
             managing the
@@ -58,5 +60,16 @@ import Content from '../layout/Content.vue';
   min-height: 40vh;
   padding: 2rem 3rem;
   padding-bottom: 8rem;
+}
+.logo-set {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+  justify-content: flex-start;
+}
+.logo {
+  max-width: 150px;
+  height: auto;
+  margin-right: 0.5rem;
 }
 </style>

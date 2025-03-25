@@ -31,6 +31,11 @@ import Content from '../layout/Content.vue';
 
       <section>
         <h3>News</h3>
+        <p>2025/3/25</p>
+        <ul>          
+          <li>因許多作者建議，研討會開放摘要形式投稿，論文格式請依研討會網站提供的樣版撰寫，最佳論文於全文投稿論文中選出。</li>
+          Based on recommendations from many authors, the conference allows abstract submissions. The paper format should follow the template provided on the conference website. The best paper will be selected from the full paper submissions.
+        </ul>
         <p>2025/3/23</p>
         <ul>          
           <li>The deadline for full paper submissions has been extended to March 30th.</li>

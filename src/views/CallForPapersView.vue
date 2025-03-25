@@ -7,7 +7,7 @@ import Content from '../layout/Content.vue';
   <Content :align="'left'">
     <div class="context">
       <h3>Call for Papers [<a target="_blank"
-          href="https://drive.google.com/file/d/12NrzuK64O0nY1ud84KLXaaONlBCZLVgC/view?usp=sharing">PDF</a>]</h3>
+          href="https://drive.google.com/file/d/1WvysLgxUA6NyH9eQs1pymYo3bXlQC-8C/view?usp=sharing">PDF</a>]</h3>
       <br />
       <section>
         CMCT 2025: The 42nd Symposium on Combinatorial Mathematics and Computational Theory<br />
@@ -41,7 +41,7 @@ import Content from '../layout/Content.vue';
 
       <section>
         <h4>Important Dates</h4>
-        Full paper submission: <b>23 March, 2025</b><br />
+        Full paper submission: <b>30 March, 2025</b><br />
         Paper notification: <b>06 April, 2025</b><br />
         Camera-ready paper due date: <b>20 April, 2025</b><br />
         Conference Dates: <b>9-10 May, 2025</b><br />

@@ -31,6 +31,11 @@ import Content from '../layout/Content.vue';
 
       <section>
         <h3>News</h3>
+        <p>2025/3/23</p>
+        <ul>          
+          <li>The deadline for full paper submissions has been extended to March 30th.</li>
+          
+        </ul>
         <p>2025/3/6</p>
         <ul>          
           <li>Submission site is open.</li>

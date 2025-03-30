@@ -7,7 +7,7 @@ import Content from '../layout/Content.vue';
   <Content :align="'left'">
     <div class="context">
       <h3>Call for Papers [<a target="_blank"
-          href="https://drive.google.com/file/d/1B6pupYbO10lVPw-wZqTZ5OqXKbIXEGM6/view?usp=sharing">PDF</a>]</h3>
+          href="https://drive.google.com/file/d/1Jfa5JORwClz73D1n9ryePP-YQEyxsYh8/view?usp=sharing">PDF</a>]</h3>
       <br />
       <section>
         CMCT 2025: The 42nd Symposium on Combinatorial Mathematics and Computational Theory<br />
@@ -29,34 +29,41 @@ import Content from '../layout/Content.vue';
           <li>Data structures and algorithms</li>
           <li>Graph and network problems</li>
           <li>Interconnection networks</li>
+          <li>Networks parallel and cloud algorithms</li>
           <li>Number theory and cryptography</li>
-          <li>On-line problems</li>
+          <li>On-line algorithms</li>
           <li>Pattern matching and data compression</li>
+          <li>Quantum computing</li>
           <li>Randomized and probabilistic techniques</li>
           <li>Symbolic computation</li>
-          <li>Networks parallel and cloud algorithms</li>
         </ul>
-     
+
       </section><br />
 
       <section>
         <h4>Important Dates</h4>
-        Full paper submission: <b>30 March, 2025</b><br />
-        Paper notification: <b>06 April, 2025</b><br />
-        Camera-ready paper due date: <b>20 April, 2025</b><br />
-        Conference Dates: <b>9-10 May, 2025</b><br />
+        Abstract/Full paper submission: <b>April 15, 2025</b><br />
+        Paper notification: <b>April 22, 2025</b><br />
+        Camera-ready paper due date: <b>April 27, 2025</b><br />
+        Conference Dates: <b>May 9-10, 2025</b><br />
       </section><br />
 
       <section>
         <h4>Submission Guideline</h4>
         <p>
-          本研討會接受論文摘要(1頁)或全文(含文獻至多6頁)投稿，論文格式請依研討會網站提供的樣版撰寫；<br/>最佳論文於全文投稿論文中選出。論文投稿請透過 Microsoft CMT 會議系統進行，投稿過程則可能需要註冊建立一個帳戶。<br/><br/>
-          The conference accepts submissions in the form of either a one-page abstract or a full paper (up to six pages, including references). <br/>The paper format should follow the template provided on the conference website. The Best Paper Award will be selected from the full paper submissions. Papers should be submitted through the Microsoft CMT conference system, and the submission process may require registration to create an account.
+          本研討會接受論文摘要(1頁)或全文(含文獻至多6頁)投稿，論文格式請依研討會網站提供的樣版撰寫；<br />最佳論文於全文投稿論文中選出。論文投稿請透過 Microsoft CMT
+          會議系統進行，投稿過程則可能需要註冊建立一個帳戶。<br /><br />
+          The conference accepts submissions in the form of either a one-page abstract or a full paper (up to six pages,
+          including references). <br />The paper format should follow the template provided on the conference website.
+          The Best Paper Award will be selected from the full paper submissions. Papers should be submitted through the
+          Microsoft CMT conference system, and the submission process may require registration to create an account.
 
         </p>
         <!-- All papers must be original and not simultaneously submitted to another journal or conference.<br /> -->
-        Submission link: <b><a href="https://cmt3.research.microsoft.com/CMCT2025" target="_blank">https://cmt3.research.microsoft.com/CMCT2025</a></b><br />
-        Help on submission: <a href="https://drive.google.com/file/d/1xeDQ_RBGhy2gwFwjudZqQ1WIC8CxXUhQ/view?usp=sharing" target="_blank">link</a><br />
+        Submission link: <b><a href="https://cmt3.research.microsoft.com/CMCT2025"
+            target="_blank">https://cmt3.research.microsoft.com/CMCT2025</a></b><br />
+        Help on submission: <a href="https://drive.google.com/file/d/1xeDQ_RBGhy2gwFwjudZqQ1WIC8CxXUhQ/view?usp=sharing"
+          target="_blank">link</a><br />
         Templates, sample files: <a
           href="https://drive.google.com/drive/folders/1-uJpkkvIbmP1hxGBnCQsZ5GXMH49iurY?usp=drive_link"
           target="_blank">Templates</a><br />

@@ -67,6 +67,11 @@ import Content from '../layout/Content.vue';
           <img class="logo" src="../assets/Taipei_Tech.png" />
           <img class="logo" src="../assets/aact.png" />
         </div>
+        <h4>Co-Organizers</h4>
+        <div class="logo-set">
+          <img class="logo wide" src="../assets/etop.png" />
+          <img class="logo" src="../assets/iis-sinica.png" />
+        </div>
         <p>
           <i>The <a href="https://cmt3.research.microsoft.com" target="_blank">Microsoft CMT service</a> was used for
             managing the
@@ -78,7 +83,7 @@ import Content from '../layout/Content.vue';
   </Content>
 </template>
 
-<style scoped>
+<style lang="scss" scoped>
 .context {
   height: auto;
   min-height: 40vh;
@@ -91,11 +96,16 @@ import Content from '../layout/Content.vue';
   gap: 16px;
   align-items: center;
   justify-content: flex-start;
+  flex-wrap: wrap;
 }
 
 .logo {
   max-width: 150px;
   height: auto;
   margin-right: 0.5rem;
+
+  &.wide {
+    max-width: 250px;    
+  }
 }
 </style>

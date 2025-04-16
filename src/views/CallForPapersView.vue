@@ -102,5 +102,6 @@ import Content from '../layout/Content.vue';
   height: auto;
   min-height: 40vh;
   padding: 2rem 3rem;
+  word-wrap: break-word;
 }
 </style>

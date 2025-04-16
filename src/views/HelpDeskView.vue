@@ -11,11 +11,11 @@ import Content from '../layout/Content.vue';
         All questions about CMCT 2025 should be emailed to:
         <ul>
 
-          <li>Workshop Email:<a href="mailto:cmct.workshop@gmail.com">cmct.workshop@gmail.com</a></li>
+          <li>Workshop Email: <a href="mailto:cmct.workshop@gmail.com">cmct.workshop@gmail.com</a></li>
           <li>Contact Person: Professor Chuan-Ming Liu, Department of Computer Science and Information Engineering, National Taipei University of Technology
           </li>
           tel:(02)27712171 ext 4251<br/>
-          Email:<a href="mailto:cmliu@ntut.edu.tw">cmliu@ntut.edu.tw</a>
+          Email: <a href="mailto:cmliu@ntut.edu.tw">cmliu@ntut.edu.tw</a>
         </ul>
       </section><br />
       

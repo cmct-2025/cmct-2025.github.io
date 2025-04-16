@@ -31,25 +31,34 @@ import Content from '../layout/Content.vue';
 
       <section>
         <h3>News</h3>
+        <p>2025/4/16</p>
+        <ul>
+          <li>研討會出席註冊開放中，請所有與會者務必完成註冊。註冊截止時間為 4 月 27 日晚間 11:59。詳情請見<a href="/registration">Registration</a>。</li>
+
+          <li>Conference registration is now open. All participants are required to complete the registration before
+            April 27th, 11:59 PM. Please refer to the <a href="/registration">Registration section</a> for details.</li>
+        </ul>
         <p>2025/3/30</p>
-        <ul>       
-          <li>為鼓勵領域學子與學者先進多多參與會議，論文投稿依建議延至4月15日，敬請把握良機，踴躍投稿。</li>   
+        <ul>
+          <li>為鼓勵領域學子與學者先進多多參與會議，論文投稿依建議延至4月15日，敬請把握良機，踴躍投稿。</li>
 
         </ul>
         <p>2025/3/25</p>
-        <ul>          
+        <ul>
           <li>因許多作者建議，研討會開放摘要形式投稿，論文格式請依研討會網站提供的樣版撰寫，最佳論文於全文投稿論文中選出。</li>
-          Based on recommendations from many authors, the conference allows abstract submissions. The paper format should follow the template provided on the conference website. The best paper will be selected from the full paper submissions.
+          Based on recommendations from many authors, the conference allows abstract submissions. The paper format
+          should follow the template provided on the conference website. The best paper will be selected from the full
+          paper submissions.
         </ul>
         <p>2025/3/23</p>
-        <ul>          
+        <ul>
           <li>The deadline for full paper submissions has been extended to March 30th.</li>
-          
+
         </ul>
         <p>2025/3/6</p>
-        <ul>          
+        <ul>
           <li>Submission site is open.</li>
-          
+
         </ul>
       </section><br />
       <section>
@@ -76,12 +85,14 @@ import Content from '../layout/Content.vue';
   padding: 2rem 3rem;
   padding-bottom: 8rem;
 }
+
 .logo-set {
   display: flex;
   gap: 16px;
   align-items: center;
   justify-content: flex-start;
 }
+
 .logo {
   max-width: 150px;
   height: auto;

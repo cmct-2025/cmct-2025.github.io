@@ -31,6 +31,11 @@ import Content from '../layout/Content.vue';
 
       <section>
         <h3>News</h3>
+        <p>2025/4/19</p>
+        <ul>
+          <li>論文接受通知日期調整為 2025 年 4 月 24 日，請作者留意後續通知。</li>
+          <li>The paper notification date has been rescheduled to April 24th, 2025. Please stay tuned for further updates.</li>
+        </ul>
         <p>2025/4/16</p>
         <ul>
           <li>研討會出席註冊開放中，請所有與會者務必完成註冊。註冊截止時間為 4 月 27 日晚間 11:59。詳情請見<a href="/registration">Registration</a>。</li>

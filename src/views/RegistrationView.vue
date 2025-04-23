@@ -17,7 +17,7 @@ import Content from '../layout/Content.vue';
             href="https://docs.google.com/forms/d/1-hbRx6Xj_lItUPJOYgwRhnuJp-olDWVJT05xCGY4Cjc/edit?hl=zh-tw#settings"
             target="_blank">link</a><br /><br />
 
-          📅 報名截止時間：2025年4月27日（星期日）晚間11:59（台北時間）<br />
+          📅 報名截止時間：2025年4月30日（星期三）晚間11:59（台北時間）<br />
 
           感謝您的配合，期待在研討會中與您相見！<br /><br />
 
@@ -29,7 +29,7 @@ import Content from '../layout/Content.vue';
           👉 <a
             href="https://docs.google.com/forms/d/1-hbRx6Xj_lItUPJOYgwRhnuJp-olDWVJT05xCGY4Cjc/edit?hl=zh-tw#settings"
             target="_blank">link</a><br /><br />
-          📅 Registration deadline: April 27th, 2025 (Sunday) at 11:59 PM (Taipei time)<br />
+          📅 Registration deadline: April 30th, 2025 (Wednesday) at 11:59 PM (Taipei time)<br />
 
           Thank you for your cooperation, and we look forward to seeing you at the conference!<br /><br /><br /><br />
         </ul>

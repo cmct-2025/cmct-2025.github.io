@@ -31,6 +31,15 @@ import Content from '../layout/Content.vue';
 
       <section>
         <h3>News</h3>
+        <p>2025/4/23</p>
+        <ul>
+          <li>研討會出席註冊截止時間變更為為 4 月 30 日晚間 11:59。詳情請見<a href="/registration">Registration</a>。</li>
+
+          <li>The deadline for conference attendance registration has been extended to April 30 at 11:59 PM. For details, please see <a href="/registration">Registration section</a> for details.</li>
+          <li>原訂於 2025 年 4 月 24 日發送的論文接受通知，將調整為 2025 年 4 月 25 日（星期五）發送。請作者留意後續通知。</li>
+          <li>The paper acceptance notification, originally scheduled for April 24, 2025, has been rescheduled to Friday, April 25, 2025. Please stay tuned for further updates.</li>
+        </ul>
+        
         <p>2025/4/19</p>
         <ul>
           <li>論文接受通知日期調整為 2025 年 4 月 24 日，請作者留意後續通知。</li>

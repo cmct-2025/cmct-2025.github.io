@@ -33,10 +33,16 @@ import Content from '../layout/Content.vue';
         <h3>News</h3>
         <p>2025/4/24</p>
         <ul>
-          <li>本屆研討會專題演講（Keynote Speech）講者之一已確認：<br />
+          <li>本屆研討會專題演講（Keynote Speech）之一：<br />
             Keynote Speaker: Prof. Jehn-Ruey Jiang（江振瑞 教授）, National Central University（國立中央大學）<br />
             Speech Title: From Quantum Bits to Quantum Algorithms（從量子位元到量子演算法）<br />
           </li>
+          <li> Camera-ready 論文截止日期延至 2025 年 4 月 30 日。</li>
+          <li>
+            Camera-ready deadline extended to April 30, 2025.
+          </li>
+          <li>公告通過論文清單。</li>
+          <li>The list of accepted papers is now available.</li>
         </ul>
         <p>2025/4/23</p>
         <ul>

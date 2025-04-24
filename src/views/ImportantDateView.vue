@@ -8,8 +8,8 @@ import Content from '../layout/Content.vue';
     <div class="context">      
       <h3>Important Dates</h3><br/>
       Abstract/Full paper submission: <b>April 15, 2025</b><br />
-      Paper notification: <b>April 24, 2025</b><br />
-      Camera-ready paper due date: <b>April 27, 2025</b><br />
+      Paper notification: <b>April 25, 2025</b><br />
+      Camera-ready paper due date: <b>April 30, 2025</b><br />
       Conference Dates: <b>May 9-10, 2025</b><br />
     </div>
   </Content>

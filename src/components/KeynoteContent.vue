@@ -1,7 +1,6 @@
 <script setup lang="ts">
-import { computed } from 'vue'
 
-const props = defineProps<{
+defineProps<{
   engName: string
   chtName: string
   staffTitle: string
@@ -12,9 +11,7 @@ const props = defineProps<{
   abstractContent: string
   imgSrc: URL
 }>()
-// console.log(props.imgSrc)
-// const imgUrl = computed(() => new URL(props.imgSrc, import.meta.url).href);
-// console.log(imgUrl)
+
 </script>
 
 <template>

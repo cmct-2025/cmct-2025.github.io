@@ -10,18 +10,18 @@ const props = defineProps<{
   biography: string
   speechTitle: string
   abstractContent: string
-  imgSrc: string
+  imgSrc: URL
 }>()
-console.log(props.imgSrc)
-const imgUrl = computed(() => new URL(props.imgSrc, import.meta.url).href);
-console.log(imgUrl)
+// console.log(props.imgSrc)
+// const imgUrl = computed(() => new URL(props.imgSrc, import.meta.url).href);
+// console.log(imgUrl)
 </script>
 
 <template>
   <h3>Keynote Speaker</h3>
   <section>
     <div class="basic-info">
-      <div class="photo" :style="{backgroundImage: `url(${imgUrl})`}">
+      <div class="photo" :style="{backgroundImage: `url(${imgSrc})`}">
         <!-- <img src="../assets/keynote.webp" /> -->
       </div>
       <div class="detail">

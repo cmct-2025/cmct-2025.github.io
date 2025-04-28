@@ -4,15 +4,15 @@ import { ref } from 'vue'
 import Content from '../layout/Content.vue';
 const papers = ref([
   { id: 4, title: "Comprehensive study on the Solution Techniques for Fuzzy Delay Differential Equations" },
-  { id: 7, title: "Triadic Propagation Linear Threshold Model for Rumor Minimization" },
+  { id: 7, title: "Triadic Propagation Linear Threshold Model for Rumor Minimization", candidate: true },
   { id: 8, title: "自動編碼器結合圖注意力網路用於推薦系統" },
   { id: 9, title: "超級支配集合問題之正確演算法" },
   { id: 10, title: "用動態圖分析社群之間的關係與變化", },
-  { id: 11, title: "異質資料庫整合之研究-以A政府機關為例", },
-  { id: 12, title: "基於幾何圖神經網路與蛋白質語言模型的抗原表位預測", },
+  { id: 11, title: "異質資料庫整合之研究-以A政府機關為例", candidate: true },
+  { id: 12, title: "基於幾何圖神經網路與蛋白質語言模型的抗原表位預測", candidate: true },
   { id: 13, title: "The Littlestone Dimension of Fully Symmetric Boolean Concepts", },
-  { id: 14, title: "The Most and Longest Common Increasing Interval Subsequence Problems", },
-  { id: 15, title: "Bit-Vector Approaches for Solving the Increasing Subsequence Problems with Sliding indows", },
+  { id: 14, title: "The Most and Longest Common Increasing Interval Subsequence Problems", candidate: true },
+  { id: 15, title: "Bit-Vector Approaches for Solving the Increasing Subsequence Problems with Sliding indows", candidate: true },
   { id: 16, title: "剝洋蔥式的無線充電板佈署演算法", },
   { id: 17, title: "The integer {2}-domination number of grids", },
   { id: 18, title: "Finding ultrametric minimum-diameter spanning trees", },
@@ -41,6 +41,8 @@ const papers = ref([
   <Content :align="'left'">
     <div class="context">
       <h3>Accepted Papers</h3>
+      <p>備註: 最佳論文候選提名將以 ✦ 表示。</p>
+      <p>Note: Best Paper Candidate nominations will be denoted by ✦.</p>
       <section>
         <table>
           <thead>
@@ -50,8 +52,8 @@ const papers = ref([
             </tr>
           </thead>
           <tbody>
-            <tr v-for="(item) in papers" :key="item.id">
-              <td data-label="ID">{{ item.id }}</td>
+            <tr v-for="(item) in papers" :key="item.id" :class="{ candidate: item.candidate }">
+              <td data-label="ID">{{ item.id }}{{ item.candidate ? '✦' : '' }}</td>
               <td data-label="Title">{{ item.title }}</td>
             </tr>
           </tbody>
@@ -70,7 +72,7 @@ const papers = ref([
   </Content>
 </template>
 
-<style scoped>
+<style lang="scss" scoped>
 .context {
   height: auto;
   min-height: 40vh;
@@ -93,6 +95,12 @@ td {
 
 th {
   background-color: #f2f2f2;
+}
+
+tr {
+  &.candidate {
+    background-color: rgb(255 230 200);
+  }
 }
 
 table {
@@ -124,6 +132,8 @@ td:first-child {
 
   tr {
     margin-bottom: 1rem;
+
+
   }
 
   td {

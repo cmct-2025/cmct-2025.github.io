@@ -31,6 +31,23 @@ import Content from '../layout/Content.vue';
 
       <section>
         <h3>News</h3>
+        <p>2025/4/28</p>
+        <ul>
+
+          <li>最佳論文候選已公布，請參閱<a href="/accepted-papers">Accepted papers</a><br />
+            Best Paper Candidate nominations have been announced. Please refer to <a href="/accepted-papers">Accepted
+              papers</a>.</li>
+          <li>本屆研討會專題演講（Keynote Speech）：<br />
+            Keynote Speaker: Prof. Chang-Biau Yang（楊昌彪 教授）, National Sun Yat-sen University (國立中山大學)<br />
+            Speech Title: The Longest Increasing Subsequence Problem and Its Variants<br />
+          </li>
+
+          <li>本屆研討會專題演講（Keynote Speech）：<br />
+            Keynote Speaker: Prof. Justie Su- Tzu Juan（阮夙姿 教授）, National Chi Nan University (國立暨南國際大學)<br />
+            Speech Title: Visual Secret Sharing Scheme Based on Polarization<br />
+          </li>
+
+        </ul>
         <p>2025/4/24</p>
         <ul>
           <li>本屆研討會專題演講（Keynote Speech）之一：<br />

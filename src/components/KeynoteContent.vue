@@ -9,7 +9,8 @@ defineProps<{
   biography: string
   speechTitle: string
   abstractContent: string
-  imgSrc: URL
+  imgSrc?: URL
+  square?: boolean
 }>()
 
 </script>
@@ -18,15 +19,18 @@ defineProps<{
   <h3>Keynote Speaker</h3>
   <section>
     <div class="basic-info">
-      <div class="photo" :style="{backgroundImage: `url(${imgSrc})`}">
+      <div :class="['photo', { 'square': square }]" :style="{ backgroundImage: `url(${imgSrc})` }" v-if="imgSrc">
         <!-- <img src="../assets/keynote.webp" /> -->
       </div>
       <div class="detail">
 
-        <b>{{ engName }}/{{ chtName }}</b><br />
-        <b>Title :</b> {{ staffTitle }}<br />
-        <b>Affiliation :</b> {{ affiliation }}<br />
-        <b>E-mail :</b> {{ email }}<br />
+        <b class="lg">{{ chtName }} 教授/ Prof. {{ engName }}</b><br />
+        <!-- <b>Title :</b> -->
+        {{ staffTitle }}<br />
+        <!-- <b>Affiliation :</b> -->
+        {{ affiliation }}<br />
+        <!-- <b>E-mail :</b> -->
+        {{ email }}<br />
       </div>
     </div>
   </section><br /><br />
@@ -68,36 +72,46 @@ defineProps<{
   flex-wrap: wrap;
   align-items: center;
 
+  b.lg {
+    font-size: 1.6rem;
+    padding-bottom: 1rem;
+    display: block;
+  }
+
   .photo {
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
-    flex-basis: 330px;
-    height: 340px;
+    flex-basis: 240px;
+    height: 280px;
+
+    &.square {
+      background-size: contain;
+    }
   }
 
   .detail {
     line-height: 2rem;
     word-break: break-all;
+    flex: 1;
   }
 
 
 
   @media screen and (max-width:950px) {
-    .photo {
-      flex-basis: 30%;
-      height: 300px;
-    }
+
 
     .detail {
-      flex-basis: calc(70% - 1rem);
+      // flex-basis: calc(100% - 240px - 1rem);
     }
   }
 
   @media screen and (max-width:640px) {
     .photo {
+      background-size: contain;
       flex-basis: 100%;
-      height: 360px;
+      height: 380px;
+
     }
 
     .detail {

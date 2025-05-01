@@ -38,9 +38,7 @@ defineProps<{
     <b>Short Bio</b>
     <div class="divider" style="width: 100%;height: 0.5px;background-color: rgb(187 155 155 / 18%);margin: 1.5rem 0px;">
     </div>
-
     {{ biography }}
-
   </section><br /><br />
   <div class="divider" style="width: 100%; height: 0.5px; background-color: darkgrey; margin: 1.5rem 0;"></div>
 

@@ -11,6 +11,7 @@ import KeynoteSpeakersView from './views/KeynoteSpeakersView.vue'
 import RegistrationView from './views/RegistrationView.vue'
 import VenueView from './views/VenueView.vue'
 import HelpDeskView from './views/HelpDeskView.vue'
+import InvitedPresentations from './views/InvitedPresentations.vue'
 
 export const routes = [
   { path: '/', component: HomeView },
@@ -21,6 +22,7 @@ export const routes = [
   { path: '/accepted-papers', component: AcceptedPapersView },
   { path: '/program', component: ProgramView },
   { path: '/keynote-speakers', component: KeynoteSpeakersView },
+  { path: '/invited-presentations', component: InvitedPresentations},
   { path: '/registration', component: RegistrationView },
   { path: '/venue', component: VenueView },
   { path: '/help-desk', component: HelpDeskView },

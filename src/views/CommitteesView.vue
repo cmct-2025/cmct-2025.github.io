@@ -6,103 +6,120 @@ import Content from '../layout/Content.vue';
 <template>
   <Content :align="'left'">
     <div class="context">
-      <h3>Committees</h3><br />
-
       <section>
-        <h4>Honorary Chairs</h4>
-        President Sea-Fue Wang, National Taipei University of Technology, Taiwan
+        <h2>榮譽主席</h2>
+        王錫福 校長 (臺北科技大學)
       </section><br />
 
       <section>
-        <h4>Advisory Committees</h4>
-        Richard Chia-Tong Lee, National Tsing Hua University, Taiwan<br />
-        Der-Tsai Lee, Academia Sinica, Taiwan<br />
-        Chuan-Yi Tang, Providence University, Taiwan<br />
+        <h2>諮詢委員</h2>
+        李家同 榮譽講座教授 (清華大學、靜宜大學、暨南大學)<br />
+        李德財 院士 (中央研究院)<br />
+        唐傳義 校長 (靜宜大學)<br />
+
       </section><br />
 
       <section>
-        <h4>Steering Committees</h4>
-        Chin-Wen Ho, National Central University, Taiwan<br />
-        Yaw-Ling Lin, Providence University, Taiwan<br />
-        Tsan-sheng Hsu, Academia Sinica, Taiwan<br />
-        Gen-Huey Chen, National Taiwan University, Taiwan<br />
-        Jou-Ming Chang, National Taipei University of Business, Taiwan<br />
-        Sheng-Lung Peng, National Taipei University of Business, Taiwan<br />
-        Chang-Biau Yang, National Sun Yat-Sen University, Taiwan<br />
+        <h2>指導委員</h2>
+        何錦文 教授 (中央大學)<br />
+        林耀鈴 教授 (靜宜大學)<br />
+        徐讚昇 研究員 (中央研究院)<br />
+        陳健輝 教授 (臺灣大學)<br />
+        張肇明 教授 (臺北商業大學)<br />
+        彭勝龍 教授 (臺北商業大學)<br />
+        楊昌彪 教授 (中山大學)<br />
       </section><br />
 
       <section>
-        <h4>Conference Chairs</h4>
-        Scott Yang-Lang Chang, National Taipei University of Technology, Taiwan<br />
-        Chien-Hung Liu, National Taipei University of Technology, Taiwan<br />
+        <h2>大會主席</h2>
+        張陽郎 院長 (臺北科技大學)<br />
+        劉建宏 主任 (臺北科技大學)<br />
       </section><br />
 
       <section>
-        <h4>Program Chair</h4>
-        Chuan-Ming Liu, National Taipei University of Technology, Taiwan
-      </section><br />
-
-      <section>
-        <h4>Publicity Chair</h4>
-        Jyun-Ao Lin, National Taipei University of Technology, Taiwan
-      </section><br />
-
-      <!-- <section>
-        <h4>Program Committee</h4>
-        Jia-Ming Chang, National Chengchi University<br />
-        Ching-Lueh Chang, Yuan Ze University<br />
-        Po-An Chen, National Yang Ming Chiao Tung University<br />
-        Li-Hsuan Chen, National Chung Cheng University<br />
-        Ho-Lin Chen, National Taiwan University<br />
-        Wen-Yu Chung, National Kaohsiung University of Science and Technology<br />
-        Wing-Kai Hon, National Tsing Hua University<br />
-        Guan-Shieng Huang, National Chi Nan University<br />
-        Ling-Ju Hung, National Taipei University of Business, Taiwan<br />
-        Sanpawat Kantabutra, Chiang Mai University<br />
-        Ralf Klasing, CNRS and University of Bordeaux<br />
-        Van Bang Le, Universität Rostock<br />
-        Chuan-Min Lee, Ming Chuan University<br />
-        Chung-Shou Liao, National Tsing Hua University<br />
-        Chuang-Chieh Lin, Tamkang University<br />
-        Chun-Cheng Lin, National Yang Ming Chiao Tung University<br />
-        Ying-Chih Lin, Feng Chia University<br />
-        Peter Rossmanith, RWTH Aachen University<br />
-        Emily Chia-Yu Su, Taipei Medical University<br />
-        Meng-Tsung Tsai, Academia Sinica<br />
-        Chuan-Ju, Wang, Academia Sinica<br />
-        Hung-Lung Wang, National Taiwan Normal University<br />
-        Tomoyuki Yamakami, University of Fukui<br />
-        Jinn-Shyong Yang, National Taipei University of Business<br />
-      </section><br />
-      <section>
-        <h4>Organizing Chair</h4>
-        Yen-Hung Chen, University of Taipei, Taiwan
+        <h2>議程主席</h2>
+        劉傳銘 教授 (臺北科技大學)
       </section><br />
 
 
       <section>
-        <h4>Organizing Committee</h4>
+        <h2>宣傳主席</h2>
+        林濬璈 教授 (臺北科技大學)
+      </section><br />
 
-        Ah-Fur Lai, University of Taipei, Taiwan<br />
-        Ta-Wei Shou, University of Taipei, Taiwan<br />
-        Chun-Ming Tasi, University of Taipei, Taiwan<br />
-        Dong-Hwa Lu, University of Taipei, Taiwan<br />
-        Cheng-Ying Yang, University of Taipei, Taiwan<br />
-        Jui-chung Hung, University of Taipei, Taiwan<br />
-        Shih-Tsung Liang, University of Taipei, Taiwan<br />
-        Chih-Peng Huang, University of Taipei, Taiwan<br />
-      </section><br /> -->
+      <section>
+        <h2>議程委員<span class="note">按照姓名筆畫順序排列</span></h2>
+        王弘倫 臺灣師範大學<br />
+        王釧茹 中央研究院<br />
+        白恭瑞 明志科技大學<br />
+        呂及人 中央研究院<br />
+        呂育道 臺灣大學<br />
+        呂學一 臺灣大學<br />
+        江振瑞 中央大學<br />
+        李佳衛 臺北市立大學<br />
+        李彥寰 臺灣大學<br />
+        李添福 慈濟大學<br />
+        李權明 銘傳大學<br />
+        林春成 陽明交通大學<br />
+        林莊傑 臺灣海洋大學<br />
+        林清池 臺灣海洋大學<br />
+        林濬璈 臺北科技大學<br />
+        林聯發 高雄科技大學<br />
+        林瀚仚 清華大學<br />
+        官振傑 臺灣師範大學<br />
+        吳信龍 臺北大學<br />
+        洪士涵 臺灣大學<br />
+        洪春男 大葉大學<br />
+        洪智鐸 政治大學<br />
+        洪綾珠 臺北商業大學<br />
+        高孟駿 陽明交通大學<br />
+        梁雅鈞 成功大學<br />
+        陳立軒 中正大學<br />
+        陳和麟 臺灣大學<br />
+        陳柏安 陽明交通大學<br />
+        陳奕中 中興大學<br />
+        陳彥宏 臺北市立大學<br />
+        陳昱圻 臺北科技大學<br />
+        陳鵬安 陽明交通大學<br />
+        郭柏辰 臺北科技大學<br />
+        郭桐惟 政治大學<br />
+        張世豪 臺北科技大學<br />
+        張家銘 政治大學<br />
+        張啟昌 中山醫學大學<br />
+        張經略 元智大學<br />
+        黃上恩 臺灣大學<br />
+        黃光璿 暨南國際大學<br />
+        黃淵科 高雄科技大學<br />
+        楊進雄 臺北商業大學<br />
+        廖文華 臺北商業大學<br />
+        廖崇碩 清華大學<br />
+        劉智弘 臺灣大學<br />
+        賴傳淇 中正大學<br />
+        謝孫源 成功大學<br />
+        鍾文鈺 高雄科技大學<br />
+        鐘楷閔 中央研究院<br />
+        韓永楷 清華大學<br />
+        蔡孟宗 中央研究院<br />
+        蔡詩妤 陽明交通大學<br />
+        蘇家玉 臺北醫學大學<br />
 
-
+      </section>
 
     </div>
   </Content>
 </template>
 
-<style scoped>
+<style lang="scss" scoped>
 .context {
   height: auto;
   min-height: 40vh;
   padding: 2rem 3rem;
+
+  section h2 .note{
+    font-weight: 200;
+    color: gray;
+    margin-left: 1rem;
+    font-size: 12pt;
+  }
 }
 </style>

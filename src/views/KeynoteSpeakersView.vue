@@ -53,7 +53,7 @@ Visual Secret Sharing (VSS) is an encryption technique designed to encrypt a sec
 In 1997, a VSS scheme based on the polarization of light waves was introduced. This approach leverages the property that light can pass through a unidirectional polarizer but is blocked when passing through two perpendicular polarizers. The scheme was intended to perform decryption equivalent to a logical XOR operation. However, it could not adequately handle cases involving the decryption of more than two shares.
 To address this limitation, we proposed a new interpretation of VSS based on the polarization of light, called P-VSS, in 2023. Building on this foundation, we have conducted further related research, which will be presented and discussed in this talk.
 `,
-    // imgSrc: new URL("/src/assets/ncnu-csie.png", import.meta.url),
+    imgSrc: new URL("/src/assets/Justie-Su-TzuJuan.jpg", import.meta.url),
     square: true
   },
 

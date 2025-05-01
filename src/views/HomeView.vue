@@ -31,10 +31,16 @@ import Content from '../layout/Content.vue';
 
       <section>
         <h3>News</h3>
+        <p>2025/5/1</p>
+        <ul>
+
+          <li>研討會邀請 <a href="http://www.aact.org.tw/" target="_blank">演算法與計算理論學會(AACT)</a> 本年度獲選 最佳期刊論文獎 與 最佳碩士論文奬 論文進行分享，請參閱<a href="/invited-presentations">Invited Presentations</a>
+          </li>
+        </ul>
         <p>2025/4/28</p>
         <ul>
 
-          <li>最佳論文候選已公布，請參閱<a href="/accepted-papers">Accepted papers</a><br />
+          <li>最佳論文候選已公布，請參閱 <a href="/accepted-papers">Accepted papers</a><br />
             Best Paper Candidate nominations have been announced. Please refer to <a href="/accepted-papers">Accepted
               papers</a>.</li>
           <li>本屆研討會專題演講（Keynote Speech）：<br />

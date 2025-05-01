@@ -50,6 +50,7 @@ onMounted(() => {
           <router-link class="link" to="/accepted-papers">Accepted Papers</router-link>
           <router-link class="link" to="/program">Program</router-link>
           <router-link class="link" to="/keynote-speakers">Keynote Speakers</router-link>
+          <router-link class="link" to="/invited-presentations">Invited Presentations</router-link>
           <router-link class="link" to="/registration">Registration</router-link>
           <router-link class="link" to="/venue">Venue and Accommodation</router-link>
           <router-link class="link" to="/help-desk">Help Desk</router-link>

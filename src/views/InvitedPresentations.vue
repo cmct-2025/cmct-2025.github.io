@@ -1,11 +1,6 @@
 <script setup lang="ts">
-import { ref } from 'vue'
 
 import Content from '../layout/Content.vue';
-const currentInd = ref(0);
-const items = ref([
-
-])
 
 
 </script>

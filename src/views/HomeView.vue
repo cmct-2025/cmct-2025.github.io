@@ -31,10 +31,16 @@ import Content from '../layout/Content.vue';
 
       <section>
         <h3>News</h3>
+        <p>2025/5/2</p>
+        <ul>
+          <li>研討會行程表已公布，請參閱 <a href="/program">Program</a>
+          </li>
+        </ul>
         <p>2025/5/1</p>
         <ul>
 
-          <li>研討會邀請 <a href="http://www.aact.org.tw/" target="_blank">演算法與計算理論學會(AACT)</a> 本年度獲選 最佳期刊論文獎 與 最佳碩士論文奬 論文進行分享，請參閱<a href="/invited-presentations">Invited Presentations</a>
+          <li>研討會邀請 <a href="http://www.aact.org.tw/" target="_blank">演算法與計算理論學會(AACT)</a> 本年度獲選 最佳期刊論文獎 與 最佳碩士論文奬
+            論文進行分享，請參閱<a href="/invited-presentations">Invited Presentations</a>
           </li>
         </ul>
         <p>2025/4/28</p>

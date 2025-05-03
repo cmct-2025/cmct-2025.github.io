@@ -31,6 +31,11 @@ import Content from '../layout/Content.vue';
 
       <section>
         <h3>News</h3>
+        <p>2025/5/3</p>
+        <ul>
+          <li>研討會行程與主題分類已發布，所有投稿論文現已依主題分配至各場次，請參閱 <a href="/program">Program</a>
+          </li>
+        </ul>
         <p>2025/5/2</p>
         <ul>
           <li>研討會行程表已公布，請參閱 <a href="/program">Program</a>

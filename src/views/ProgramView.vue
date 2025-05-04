@@ -30,31 +30,32 @@ const items = ref(["5/9", "5/10"]);
                 <tbody>
                   <tr>
                     <td>9:30~10:00</td>
-                    <td>報 到</td>
+                    <td><b>報 到</b></td>
                   </tr>
                   <tr>
                     <td>10:00~10:20</td>
-                    <td>開幕</td>
+                    <td><b>開幕</b></td>
                   </tr>
                   <tr>
                     <td>10:30~11:20</td>
-                    <td>專 題 演 講<br>演講者：國立中山大學資訊工程學系 楊昌彪 特聘教授</td>
+                    <td><b>專 題 演 講</b><br>演講者：國立中山大學資訊工程學系 楊昌彪 特聘教授<br>三樓會議廳 (303室)</td>
                   </tr>
                   <tr>
                     <td>11:20~12:10</td>
-                    <td>學會最佳論文分享 (I)<br>最佳期刊論文 國立清華大學 廖崇碩 特聘教授<br>最佳碩士論文 李怡萱 臺灣大學</td>
+                    <td><b>學會最佳論文分享 (I)</b><br>最佳期刊論文 國立清華大學 廖崇碩 特聘教授<br>最佳碩士論文 李怡萱 臺灣大學<br>三樓會議廳 (303室)</td>
                   </tr>
                   <tr>
                     <td>12:10~13:20</td>
-                    <td>午餐</td>
+                    <td><b>午餐</b></td>
                   </tr>
                   <tr>
                     <td>13:20~14:10</td>
-                    <td>專 題 演 講<br>演講者：國立中央大學資訊工程學系 江振瑞 教授</td>
+                    <td><b>專 題 演 講</b><br>演講者：國立中央大學資訊工程學系 江振瑞 教授<br>三樓會議廳 (303室)</td>
                   </tr>
                   <tr>
                     <td>14:10~15:10</td>
-                    <td>學會最佳論文分享(II)<br>最佳碩士論文 陳郁涵 成功大學<br>最佳碩士論文 許珮萱 中央大學<br>最佳碩士論文 程至榮 政治大學</td>
+                    <td><b>學會最佳論文分享(II)</b><br>最佳碩士論文 陳郁涵 成功大學<br>最佳碩士論文 許珮萱 中央大學<br>最佳碩士論文 程至榮 政治大學<br>三樓會議廳 (303室)
+                    </td>
                   </tr>
                   <tr>
                     <td>15:10~15:30</td>
@@ -66,15 +67,15 @@ const items = ref(["5/9", "5/10"]);
                       <div class="sessions">
                         <div class="session-column">
                           <b class="label">Session D</b>
-                          <span>Data Mining and Prediction</span>
+                          <span>Data Mining and Prediction</span><br>三樓會議廳 (303室)
                         </div>
                         <div class="session-column">
                           <b class="label">Session G</b>
-                          <span>Graphs Algorithms</span>
+                          <span>Graphs Algorithms</span><br>四樓會議廳 (402室)
                         </div>
                         <div class="session-column">
                           <b class="label">Session S</b>
-                          <span>Scheduling</span>
+                          <span>Scheduling</span><br>四樓會議廳 (401室)
                         </div>
                       </div>
                     </td>
@@ -123,13 +124,10 @@ const items = ref(["5/9", "5/10"]);
                   </tr>
                 </thead>
                 <tbody>
-                  <tr>
-                    <td>8:50~9:20</td>
-                    <td>報 到</td>
-                  </tr>
+
                   <tr>
                     <td>9:20~10:10</td>
-                    <td>專 題 演 講<br>演講者：國立暨南國際大學資訊工程學系 阮夙姿 特聘教授</td>
+                    <td><b>專 題 演 講</b><br>演講者：國立暨南國際大學資訊工程學系 阮夙姿 特聘教授<br>三樓會議廳 (303室)</td>
                   </tr>
                   <tr>
                     <td>10:10~10:30</td>
@@ -141,26 +139,26 @@ const items = ref(["5/9", "5/10"]);
                       <div class="sessions">
                         <div class="session-column">
                           <b class="label">Session B</b>
-                          <span>Best paper candidates</span>
+                          <span>Best paper candidates</span><br>三樓會議廳 (303室)
                         </div>
                         <div class="session-column">
                           <b class="label">Session O</b>
-                          <span>Optimization</span>
+                          <span>Optimization</span><br>四樓會議廳 (402室)
                         </div>
                         <div class="session-column">
                           <b class="label">Session A</b>
-                          <span>Applications</span>
+                          <span>Applications</span><br>四樓會議廳 (401室)
                         </div>
                       </div>
                     </td>
                   </tr>
                   <tr>
                     <td>12:10~12:30</td>
-                    <td>閉幕 (最佳論文獎頒獎)</td>
+                    <td><b>閉 幕(最佳論文獎頒獎)</b><br>三樓會議廳 (303室)</td>
                   </tr>
                   <tr>
                     <td>12:30</td>
-                    <td>午餐 賦歸</td>
+                    <td><b>午餐 賦歸</b></td>
                   </tr>
                 </tbody>
               </table>

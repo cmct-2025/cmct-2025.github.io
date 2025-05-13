@@ -31,6 +31,40 @@ import Content from '../layout/Content.vue';
 
       <section>
         <h3>News</h3>
+        <p>2025/5/14</p>
+        <ul>
+          <h3>熱烈恭賀本屆得獎論文！</h3>
+          <ul>
+            <li><b>最佳論文獎</b><br />
+              Bit-Vector Approaches for Solving the Increasing Subsequence Problems with Sliding Windows <br>
+            </li><br />
+            <li><b>優選論文獎</b><br />
+              Triadic Propagation Linear Threshold Model for Rumor Minimization<br />
+
+              異質資料庫整合之研究-以A政府機關為例<br />
+
+              基於幾何圖神經網路與蛋白質語言模型的抗原表位預測<br />
+
+              The Most and Longest Common Increasing Interval Subsequence Problems<br />
+
+
+            </li>
+          </ul>
+        </ul>
+        <p>2025/5/3</p>
+        <ul>
+          <li>研討會行程與主題分類已發布，所有投稿論文現已依主題分配至各場次，請參閱 <a href="/program">Program</a>
+          </li>
+        </ul>
+        <p>2025/5/8</p>
+        <ul>
+          <li>研討會提供大會手冊資訊，請參考<br />
+            <a href="https://drive.google.com/file/d/1LsAiaEzhbA-_meXHiusOK4WjeaggHS3D/view?usp=drive_link"
+              target="_blank">大會手冊</a><br>
+          </li>
+          <a href="https://drive.google.com/file/d/1qN4QiJCGmhz9feu6mPxXq_sYnlkR_8f2/view?usp=drive_link"
+            target="_blank">大會手冊(不含附錄)</a><br>
+        </ul>
         <p>2025/5/3</p>
         <ul>
           <li>研討會行程與主題分類已發布，所有投稿論文現已依主題分配至各場次，請參閱 <a href="/program">Program</a>
